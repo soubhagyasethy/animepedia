@@ -1,7 +1,8 @@
-Animepedia
+## Animepedia
+React app to display your Anime list.
 
-concepts:
-
-1. props
-2. array methods(map)
-3. use of state
+### Concepts:
+1. React state.
+2. Props.
+3. Array methods (map).
+4. Vanilla CSS for styling.
